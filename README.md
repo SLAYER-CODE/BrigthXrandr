@@ -1,7 +1,7 @@
 # BrigthXrandr
 $ Para aquellos que sufren de los ojos
 COnfigura el brillo desde la terminal
-esta inspirado en el problema ~~https://qastack.mx/ubuntu/162317/screen-brightness-not-working
+esta inspirado en el problema https://qastack.mx/ubuntu/162317/screen-brightness-not-working
 Istalacion:
 
 ```bash
