@@ -2,7 +2,7 @@
 $ Para aquellos que sufren de los ojos
 COnfigura el brillo desde la terminal
 esta inspirado en el problema https://qastack.mx/ubuntu/162317/screen-brightness-not-working
-Istalacion:
+Istalación:
 
 ```bash
 sudo mkdir /usr/share/scripts
@@ -35,7 +35,7 @@ super + F6
 ````
 
 Caracterisiticas
-* Baja el brillo de 100% - 1.00 unos 0.6 [> 3]
+* Baja el brillo de 100% - 1.00 unos 0.06 [> 0.03]
 * Subir el brillo unos 0.05 de 1.00 sin limites
 * Modificacion de luz noturna en el mismo archivo
 
