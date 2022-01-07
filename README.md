@@ -6,7 +6,7 @@ Istalacion:
 
 ```bash
 sudo mkdir /usr/share/scripts
-git clone https://github.com/SLAYER-CODE/BrigthXrandr
+git clone https://github.com/SLAYER-CODE/BrigthXrandr.git
 cd BrigthXrandr cp brilloXrandr.bash /usr/share/scripts/brilloXrandr.bash
 ```
 
