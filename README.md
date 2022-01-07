@@ -4,22 +4,26 @@ COnfigura el brillo desde la terminal usando
 
 Istalacion:
 
-`
+```bash
 sudo mkdir /usr/share/scripts
 git clone https://github.com/SLAYER-CODE/BrigthXrandr
 cd BrigthXrandr cp brilloXrandr.bash /usr/share/scripts/brilloXrandr.bash
-`
+```
 
-` sudo apt install autorand `
+```bash
+sudo apt install autorand
+```
 
 Para que la configuracion se guarde pueden modificar el archivo .bspwmrc , .bashrc , .zshrc
 y ponder lo siguiente:
 
-`autorandr --change`
+```bash
+autorandr --change
+```
 
 # Archivo de configuracion en sxhkdrc:
 
-`
+```bash
 # Brillo
 super + F8
         bash /usr/share/scripts/./brilloXrandr.bash --increment
@@ -28,7 +32,7 @@ super + F7
 # Luz Noturna toogle
 super + F6
         bash /usr/share/scripts/./brilloXrandr.bash --togleNigth
-`
+````
 
 Caracterisiticas
 * Baja el brillo de 100% - 1.00 unos 0.6 [> 3]
